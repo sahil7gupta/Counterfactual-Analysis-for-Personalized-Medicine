@@ -1,8 +1,7 @@
 # Counterfactual-Analysis-for-Personalized-Medicine
 
 This study leverages the International Warfarin
-Pharmacogenetics Consortium (IWPC) dataset (In-
-ternational Warfarin Pharmacogenetics Consortium
+Pharmacogenetics Consortium (IWPC) dataset (International Warfarin Pharmacogenetics Consortium
 et al., 2009), which integrates clinical and genetic
 data from a diverse population, to address the com-
 plexities of warfarin dosing. By utilizing causal infer-
